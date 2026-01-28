@@ -1,0 +1,13 @@
+[
+  {
+    "album": "Ken Doll (Single)",
+    "cover": "music/KenDoll/KenDoll.png",
+    "songs": [
+      {
+        "title": "Ken Doll",
+        "src": "music/KenDoll/KenDoll.mp3",
+        "cover": "music/KenDoll/KenDoll.png"
+      }
+    ]
+  }
+]
